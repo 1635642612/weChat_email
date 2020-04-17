@@ -1,0 +1,19 @@
+公众号模板消息推送参考
+https://www.cnblogs.com/chenghao24/p/12221878.html
+
+
+<!-- WxJava公众号 -->
+<dependency>
+   <groupId>com.github.binarywang</groupId>
+   <artifactId>weixin-java-mp</artifactId>
+   <version>3.6.0</version>
+</dependency>
+
+
+<dependency>
+     <groupId>com.sun.mail</groupId>
+     <artifactId>javax.mail</artifactId>
+     <version>1.5.2</version>
+</dependency>
+
+
